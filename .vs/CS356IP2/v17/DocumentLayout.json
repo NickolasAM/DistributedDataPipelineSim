@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicko\\source\\repos\\CS356IP2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C305CD6-4AAE-4BC3-BB6C-D0BAA7E84D08}|CS356IP2\\CS356IP2.pyproj|C:\\Users\\nicko\\source\\repos\\CS356IP2\\CS356IP2\\CS356IP2.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8C305CD6-4AAE-4BC3-BB6C-D0BAA7E84D08}|CS356IP2\\CS356IP2.pyproj|solutionrelative:CS356IP2\\CS356IP2.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 198,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CS356IP2.py",
+              "DocumentMoniker": "C:\\Users\\nicko\\source\\repos\\CS356IP2\\CS356IP2\\CS356IP2.py",
+              "RelativeDocumentMoniker": "CS356IP2\\CS356IP2.py",
+              "ToolTip": "C:\\Users\\nicko\\source\\repos\\CS356IP2\\CS356IP2\\CS356IP2.py",
+              "RelativeToolTip": "CS356IP2\\CS356IP2.py",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-05-21T22:18:42.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
